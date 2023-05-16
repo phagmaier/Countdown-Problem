@@ -1,6 +1,6 @@
 # Countdown-Problem:
 Given a list of any size of unique numbers produce target value only using real numbers (no negative or fractions allowed)
-## Officaial Rules
+## Official Rules
 https://www.datagenetics.com/blog/august32014/index.html
 
 ### Solution:
@@ -19,4 +19,4 @@ https://www.datagenetics.com/blog/august32014/index.html
   #### Be able to enter in the input from the command line. This is also incredibly easy and if i wasn't so lazy i'd do that now
   #### Add visulization when as said above, I stop being lazy.
   
-  
+  #### Rewrite in Haskell see what is faster can probably do it more efficiently in haskell with minimal effort 
