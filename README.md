@@ -12,11 +12,11 @@ https://www.datagenetics.com/blog/august32014/index.html
   #### Load program and execute main fuction entering in the numbers in a list as the first argument and the target number as the second number
 
 ### Improvments:
-  # Improve effiiency both in terms of speed and memory usage
-  # Remove uncecisary parts of the tree and node
-  # Find a way to remove the main function or at least the part where I have to generate a different tree for each specific number this is incredibly inefficient 
-  # If i'm not lazy I should add parentheses as it stands know when you read results you assume the everything is executed from left to right with no regard for presedence 
-  # Be able to enter in the input from the command line. This is also incredibly easy and if i wasn't so lazy i'd do that now
-  # Add visulization when as said above, I stop being lazy.
+  #### Improve effiiency both in terms of speed and memory usage
+  #### Remove uncecisary parts of the tree and node
+  #### Find a way to remove the main function or at least the part where I have to generate a different tree for each specific number this is incredibly inefficient 
+  #### If i'm not lazy I should add parentheses as it stands know when you read results you assume the everything is executed from left to right with no regard for presedence 
+  #### Be able to enter in the input from the command line. This is also incredibly easy and if i wasn't so lazy i'd do that now
+  #### Add visulization when as said above, I stop being lazy.
   
   
