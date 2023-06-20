@@ -57,15 +57,7 @@ class Tree:
 					for i in iterate:
 						self._insert(i,temp)
 
-
-#numbers = [5, 10, 20]
-#numbers = [5, 10, 15,7]
-#target = 35
-
-
-
-
-def main(numbers=numbers, target=target):
+def main(numbers, target):
 	partial = []
 	final = set()
 	for i in numbers:
@@ -80,6 +72,6 @@ def main(numbers=numbers, target=target):
 	print(final)
 	return final
 
-#main()
+
 
 
